@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hola, I'm Ashraf Mohamed</h1>
 
-<h3 align="center">Mobile Application Developer</h3>
-<img src="https://komarev.com/ghpvc/?username=ashrafmohammedsalih&theme=oldie"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=ashrafmohammedsalih&label=Profile%20views&color=0e75b6&style=flat"/>
+<h3 align="center">Mobile Application Developer - Flutter</h3>
+
+
 
  - 🌍 I'm based in **Saudi Arabia**
 - 🖥️ See my protfolio *<u><a href=https://ashrafal3oni.com/ target="_blank">ashrafal3oni.com</a></u>*
 - ✉️ Contact Me At *<u><a href=mailto:ashrafal3oni@gmail.com target="_blank">ashrafal3oni@gmail.com</a></u>*
 - 🚀 I'm currently working on *<u><a href=https://ashrafal3oni.com/menwoal/ target="_blank">menwoal markets</a></u>* 
 
-
+- Motivated Mobile Application Developer with 2+ years of experience and background in software engineering. Specialized in developing Flutter Mobile applications with Dart. Willing to work as a key player in a challenging and creative environment.
 <h2>Social</h2>
 <a href="https://www.github.com/ashrafmohammedsalih" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://www.twitter.com/AshrMo18" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730463/ease-prof/social/twitter-tile_wvivtr.svg" height="40" width="40" alt=twitter/>
